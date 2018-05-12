@@ -1,10 +1,14 @@
 _repo: The-Dwindling-Years_50103
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Ashman, William
     alias: Ashman
     gutenberg_agent_id: '33729'
     url: http://www.gutenberg.org/2009/agents/33729
+covers:
+- cover_type: archival
+  image_path: 50103-h/images/cover.jpg
 creator:
   author:
     agent_name: Del Rey, Lester
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8240
     wikipedia: http://en.wikipedia.org/wiki/Lester_del_Rey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50103#The-Dwindling-Years
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-10-01'
 gutenberg_type: Text
